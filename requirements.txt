@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+openai
+tqdm
+termcolor
+nltk
+protobuf
+python-dotenv
